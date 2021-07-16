@@ -1,0 +1,9 @@
+C:\Users\F.E.I.R.I.E\source\repos\Quiva.EducationalGame\EducationGame.Models\bin\Debug\netcoreapp3.1\EducationGame.Models.deps.json
+C:\Users\F.E.I.R.I.E\source\repos\Quiva.EducationalGame\EducationGame.Models\bin\Debug\netcoreapp3.1\EducationGame.Models.dll
+C:\Users\F.E.I.R.I.E\source\repos\Quiva.EducationalGame\EducationGame.Models\bin\Debug\netcoreapp3.1\EducationGame.Models.pdb
+C:\Users\F.E.I.R.I.E\source\repos\Quiva.EducationalGame\EducationGame.Models\obj\Debug\netcoreapp3.1\EducationGame.Models.csprojAssemblyReference.cache
+C:\Users\F.E.I.R.I.E\source\repos\Quiva.EducationalGame\EducationGame.Models\obj\Debug\netcoreapp3.1\EducationGame.Models.AssemblyInfoInputs.cache
+C:\Users\F.E.I.R.I.E\source\repos\Quiva.EducationalGame\EducationGame.Models\obj\Debug\netcoreapp3.1\EducationGame.Models.AssemblyInfo.cs
+C:\Users\F.E.I.R.I.E\source\repos\Quiva.EducationalGame\EducationGame.Models\obj\Debug\netcoreapp3.1\EducationGame.Models.csproj.CoreCompileInputs.cache
+C:\Users\F.E.I.R.I.E\source\repos\Quiva.EducationalGame\EducationGame.Models\obj\Debug\netcoreapp3.1\EducationGame.Models.dll
+C:\Users\F.E.I.R.I.E\source\repos\Quiva.EducationalGame\EducationGame.Models\obj\Debug\netcoreapp3.1\EducationGame.Models.pdb
